@@ -7,3 +7,7 @@ ADD
 
 SQUARE
     This is a function which squares a given number. To use it, type square(), and in the brackets write the number you would like to square. For example; square(5). Please do not enter anything that isn't a number into the brackets.
+
+SUBTRACT
+    subtract(a,b) is a function where b is subtracted from a, and a result is defined (not printed). Two variables are required for the function to work.
+    EXAMPLE: subtract(10,4) will give 6.
