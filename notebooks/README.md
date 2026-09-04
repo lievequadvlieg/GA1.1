@@ -17,4 +17,6 @@ SQUARE
 
 SUMLIST
     This is a function which takes the sum of the given numbers in a list
+
+HALLOOOOO
     
