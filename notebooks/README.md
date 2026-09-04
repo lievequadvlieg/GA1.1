@@ -14,3 +14,7 @@ DISTANCE
 
 SQUARE
     This is a function which squares a given number. To use it, type square(), and in the brackets write the number you would like to square. For example; square(5). Please do not enter anything that isn't a number into the brackets.
+
+SUMLIST
+    This is a function which takes the sum of the given numbers in a list
+    
